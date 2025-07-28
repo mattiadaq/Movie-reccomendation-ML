@@ -1,2 +1,2 @@
 # Movie-reccomendation-ML
-Using IMDB's ratings, this code should show you movies which are worth watching, based on genre, characters and ratings.
+Using IMDB's dataset, this code will reccomend you movies if you give it a movie which you like. It does this based on genre, characters and ratings.
